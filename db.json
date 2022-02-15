@@ -292,6 +292,20 @@
             "Prev"  :[],
             "Next"  :["Mightyena"],
             "Ability"  :["Run Away","Quick Feet"]
+        },
+        
+        {
+            "id" :99004,
+            "Name"  :"Not Found",
+            "Img"  :"notfound.png",
+            "Type"  : ["Ghost"],
+            "Desc"  :"Aradığın pokemon bulunamadı. Henüz eklenmemiş olabilir.",
+            "BColor"  :"#9e939e",
+            "FColor"  :"#fff",
+            "Prev"  :[],
+            "Next"  :["Unown"],
+            "Ability"  : [],
+            "Rating" : {"Total" : 1, "Score" : 1}
         }
     ],
     "type" :[
