@@ -20,8 +20,8 @@
         "Static"
       ],
       "Rating": {
-        "Total": 4,
-        "Score": 20
+        "Total": 107,
+        "Score": 74
       }
     },
     {
@@ -42,8 +42,8 @@
         "Blaze"
       ],
       "Rating": {
-        "Total": 172,
-        "Score": 140
+        "Total": 177,
+        "Score": 142
       }
     },
     {
@@ -67,8 +67,8 @@
         "Overgrow"
       ],
       "Rating": {
-        "Total": 16,
-        "Score": 10
+        "Total": 18,
+        "Score": 12
       }
     },
     {
@@ -233,7 +233,11 @@
       "Next": [],
       "Ability": [
         "Leaf Guard"
-      ]
+      ],
+      "Rating": {
+        "Total": 21,
+        "Score": 17
+      }
     },
     {
       "id": 148,
@@ -253,7 +257,11 @@
       ],
       "Ability": [
         "Shed Skin"
-      ]
+      ],
+      "Rating": {
+        "Total": 0,
+        "Score": 0
+      }
     },
     {
       "id": 151,
@@ -269,7 +277,11 @@
       "Next": [],
       "Ability": [
         "Synchronize"
-      ]
+      ],
+      "Rating": {
+        "Total": 0,
+        "Score": 0
+      }
     },
     {
       "id": 133,
@@ -295,7 +307,11 @@
       "Ability": [
         "Run Away",
         "Adaptability"
-      ]
+      ],
+      "Rating": {
+        "Total": 1,
+        "Score": 1
+      }
     },
     {
       "id": 471,
@@ -313,7 +329,11 @@
       "Next": [],
       "Ability": [
         "Snow Cloak"
-      ]
+      ],
+      "Rating": {
+        "Total": 0,
+        "Score": 0
+      }
     },
     {
       "id": 201,
@@ -331,8 +351,8 @@
         "Levitate"
       ],
       "Rating": {
-        "Total": 12,
-        "Score": 11
+        "Total": 16,
+        "Score": 13
       }
     },
     {
@@ -352,7 +372,11 @@
       "Next": [],
       "Ability": [
         "Inner Focus"
-      ]
+      ],
+      "Rating": {
+        "Total": 0,
+        "Score": 0
+      }
     },
     {
       "id": 95,
@@ -372,7 +396,11 @@
       "Ability": [
         "Rock Head",
         "Sturdy"
-      ]
+      ],
+      "Rating": {
+        "Total": 0,
+        "Score": 0
+      }
     },
     {
       "id": 700,
@@ -390,7 +418,11 @@
       "Next": [],
       "Ability": [
         "Cute Charm"
-      ]
+      ],
+      "Rating": {
+        "Total": 0,
+        "Score": 0
+      }
     },
     {
       "id": 142,
@@ -408,7 +440,11 @@
       "Ability": [
         "Rock Head",
         "Pressure"
-      ]
+      ],
+      "Rating": {
+        "Total": 0,
+        "Score": 0
+      }
     },
     {
       "id": 44,
@@ -430,7 +466,11 @@
       ],
       "Ability": [
         "Chlorophyll"
-      ]
+      ],
+      "Rating": {
+        "Total": 0,
+        "Score": 0
+      }
     },
     {
       "id": 182,
@@ -467,7 +507,11 @@
       "Next": [],
       "Ability": [
         "Chlorophyll"
-      ]
+      ],
+      "Rating": {
+        "Total": 0,
+        "Score": 0
+      }
     },
     {
       "id": 56,
@@ -486,7 +530,11 @@
       "Ability": [
         "Vital Spirit",
         "Anger Point"
-      ]
+      ],
+      "Rating": {
+        "Total": 0,
+        "Score": 0
+      }
     },
     {
       "id": 261,
@@ -527,8 +575,8 @@
       ],
       "Ability": [],
       "Rating": {
-        "Total": 209,
-        "Score": 4
+        "Total": 260,
+        "Score": 12
       }
     }
   ],
