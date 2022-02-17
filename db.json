@@ -20,8 +20,8 @@
         "Static"
       ],
       "Rating": {
-        "Score": 134,
-        "Total": 207
+        "Score": 172,
+        "Total": 250
       }
     },
     {
@@ -42,8 +42,8 @@
         "Blaze"
       ],
       "Rating": {
-        "Score": 150,
-        "Total": 187
+        "Score": 153,
+        "Total": 190
       }
     },
     {
@@ -120,6 +120,28 @@
       "Rating": {
         "Score": 14,
         "Total": 15
+      }
+    },
+    {
+      "id": 26,
+      "Name": "Raichu",
+      "Img": "raichu.png",
+      "Type": [
+        "Electric"
+      ],
+      "Desc": "Raichu, Pikachu'nun evrimleşmiş hali bir Pokémondur. Yüksek bir elektrik gücü vardır. Ash Pikachu'yu Raichu'ya çevirmemiştir. Pikachu Yıldırım Taşı kullanılarak Raichu olabilir. Raichu'nun su Pokémonlarına karşı büyük bir etkisi vardır. Hiper ışın, yıldırım gibi saldırıları kullanabilir. Çok çılgın bir pokemondur. Diğer adı Pika killer'dır.Güçlü yıldırım saldırısı bir Dragonite bile felç edebilir.Elektrik taşıyla erken evrim geçirirse Pikachu'nun yaptığı hızlı saldırıları yapamaz.",
+      "BColor": "#f7dc6f",
+      "FColor": "#000000",
+      "Prev": [
+        "Pikachu"
+      ],
+      "Next": [],
+      "Ability": [
+        "Static"
+      ],
+      "Rating": {
+        "Score": 45,
+        "Total": 57
       }
     },
     {
@@ -279,8 +301,30 @@
         "Synchronize"
       ],
       "Rating": {
-        "Score": 118,
-        "Total": 119
+        "Score": 217,
+        "Total": 218
+      }
+    },
+    {
+      "id": 172,
+      "Name": "Pichu",
+      "Img": "pichu.png",
+      "Type": [
+        "Electric"
+      ],
+      "Desc": "Pichu, Pikachu'nun evrimleşmeden önceki hali olan 172 numaralı bebek evredeki Pokémon. Pokémon video oyunlarından Pokémon Gold ve Silver'de ilk defa sahneye çıkmıştır. Pokémon anime versiyonunda ise ilk serinin 179. bölümü \"Pikachu to Pichu ve Pokemon Advance Generation serisinin de 179. bölümü'de çıkmıştır.",
+      "BColor": "#f7dc6f",
+      "FColor": "#000000",
+      "Prev": [],
+      "Next": [
+        "Pikachu"
+      ],
+      "Ability": [
+        "Static"
+      ],
+      "Rating": {
+        "Score": 65,
+        "Total": 78
       }
     },
     {
@@ -331,8 +375,8 @@
         "Snow Cloak"
       ],
       "Rating": {
-        "Score": 17,
-        "Total": 18
+        "Score": 33,
+        "Total": 35
       }
     },
     {
@@ -351,8 +395,8 @@
         "Levitate"
       ],
       "Rating": {
-        "Score": 14,
-        "Total": 17
+        "Score": 61,
+        "Total": 84
       }
     },
     {
@@ -420,8 +464,8 @@
         "Cute Charm"
       ],
       "Rating": {
-        "Score": 12,
-        "Total": 13
+        "Score": 29,
+        "Total": 33
       }
     },
     {
@@ -559,8 +603,8 @@
         "Quick Feet"
       ],
       "Rating": {
-        "Total": 13,
-        "Score": 12
+        "Score": 14,
+        "Total": 17
       }
     },
     {
@@ -581,7 +625,7 @@
       "Ability": [],
       "Rating": {
         "Score": 4,
-        "Total": 313
+        "Total": 428
       }
     }
   ],
