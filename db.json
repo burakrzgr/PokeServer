@@ -42,8 +42,8 @@
         "Blaze"
       ],
       "Rating": {
-        "Score": 153,
-        "Total": 190
+        "Score": 156,
+        "Total": 193
       }
     },
     {
@@ -257,8 +257,8 @@
         "Leaf Guard"
       ],
       "Rating": {
-        "Score": 18,
-        "Total": 22
+        "Score": 28,
+        "Total": 34
       }
     },
     {
@@ -281,8 +281,8 @@
         "Shed Skin"
       ],
       "Rating": {
-        "Score": 22,
-        "Total": 22
+        "Score": 37,
+        "Total": 37
       }
     },
     {
@@ -418,8 +418,8 @@
         "Inner Focus"
       ],
       "Rating": {
-        "Score": 28,
-        "Total": 28
+        "Score": 60,
+        "Total": 61
       }
     },
     {
@@ -624,15 +624,31 @@
       ],
       "Ability": [],
       "Rating": {
-        "Score": 4,
-        "Total": 428
+        "Score": 5,
+        "Total": 529
       }
     }
   ],
   "type": [
     {
-      "id": 0,
+      "id": 1,
       "Name": "Fire"
+    },
+    {
+      "id": 2,
+      "Name": "Electric"
+    },
+    {
+      "id": 3,
+      "Name": "Water"
+    },
+    {
+      "id": 4,
+      "Name": "Ghost"
+    },
+    {
+      "id": 5,
+      "Name": "Dragon"
     }
   ]
 }
