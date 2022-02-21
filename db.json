@@ -20,8 +20,8 @@
         "Static"
       ],
       "Rating": {
-        "Score": 172,
-        "Total": 250
+        "Score": 173,
+        "Total": 251
       }
     },
     {
@@ -42,8 +42,8 @@
         "Blaze"
       ],
       "Rating": {
-        "Score": 156,
-        "Total": 193
+        "Score": 157,
+        "Total": 194
       }
     },
     {
@@ -118,8 +118,8 @@
         "Sniper"
       ],
       "Rating": {
-        "Score": 14,
-        "Total": 15
+        "Score": 23,
+        "Total": 28
       }
     },
     {
@@ -257,8 +257,8 @@
         "Leaf Guard"
       ],
       "Rating": {
-        "Score": 28,
-        "Total": 34
+        "Score": 42,
+        "Total": 50
       }
     },
     {
@@ -301,8 +301,8 @@
         "Synchronize"
       ],
       "Rating": {
-        "Score": 217,
-        "Total": 218
+        "Score": 288,
+        "Total": 289
       }
     },
     {
@@ -323,8 +323,8 @@
         "Static"
       ],
       "Rating": {
-        "Score": 65,
-        "Total": 78
+        "Score": 66,
+        "Total": 79
       }
     },
     {
@@ -395,8 +395,8 @@
         "Levitate"
       ],
       "Rating": {
-        "Score": 61,
-        "Total": 84
+        "Score": 64,
+        "Total": 90
       }
     },
     {
@@ -418,8 +418,8 @@
         "Inner Focus"
       ],
       "Rating": {
-        "Score": 60,
-        "Total": 61
+        "Score": 66,
+        "Total": 67
       }
     },
     {
@@ -558,7 +558,7 @@
       ],
       "Rating": {
         "Score": 13,
-        "Total": 14
+        "Total": 15
       }
     },
     {
@@ -625,7 +625,7 @@
       "Ability": [],
       "Rating": {
         "Score": 5,
-        "Total": 529
+        "Total": 535
       }
     }
   ],
