@@ -627,6 +627,22 @@
         "Score": 5,
         "Total": 538
       }
+    },
+    {
+      "id": "10",
+      "Name": "testetst",
+      "Img": "ben.png",
+      "Type": [],
+      "Desc": "ewewe",
+      "BColor": "#FFF",
+      "FColor": "#000",
+      "Prev": [],
+      "Next": [],
+      "Ability": [],
+      "Rating": {
+        "Score": 1,
+        "Total": 1
+      }
     }
   ],
   "type": [
