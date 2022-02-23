@@ -118,8 +118,8 @@
         "Sniper"
       ],
       "Rating": {
-        "Score": 23,
-        "Total": 28
+        "Score": 25,
+        "Total": 30
       }
     },
     {
@@ -301,8 +301,13 @@
         "Synchronize"
       ],
       "Rating": {
-        "Score": 290,
-        "Total": 291
+<<<<<<< HEAD
+        "Score": 291,
+        "Total": 292
+=======
+        "Score": 291,
+        "Total": 292
+>>>>>>> 62c31a6d543ead4f0e581a9b53984fadeee07972
       }
     },
     {
