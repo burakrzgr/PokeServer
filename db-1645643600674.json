@@ -20,8 +20,8 @@
         "Static"
       ],
       "Rating": {
-        "Score": 174,
-        "Total": 253
+        "Score": 173,
+        "Total": 251
       }
     },
     {
@@ -67,8 +67,8 @@
         "Overgrow"
       ],
       "Rating": {
-        "Score": 24,
-        "Total": 36
+        "Score": 23,
+        "Total": 35
       }
     },
     {
@@ -140,8 +140,8 @@
         "Static"
       ],
       "Rating": {
-        "Score": 50,
-        "Total": 64
+        "Score": 46,
+        "Total": 58
       }
     },
     {
@@ -301,8 +301,8 @@
         "Synchronize"
       ],
       "Rating": {
-        "Score": 290,
-        "Total": 291
+        "Score": 288,
+        "Total": 289
       }
     },
     {
@@ -395,8 +395,8 @@
         "Levitate"
       ],
       "Rating": {
-        "Score": 66,
-        "Total": 95
+        "Score": 64,
+        "Total": 90
       }
     },
     {
@@ -625,7 +625,7 @@
       "Ability": [],
       "Rating": {
         "Score": 5,
-        "Total": 538
+        "Total": 535
       }
     }
   ],
