@@ -20,8 +20,8 @@
         "Static"
       ],
       "Rating": {
-        "Score": 174,
-        "Total": 253
+        "Score": 175,
+        "Total": 254
       }
     },
     {
@@ -626,6 +626,28 @@
       "Rating": {
         "Score": 5,
         "Total": 538
+      }
+    },
+    {
+      "id": "38",
+      "Name": "Ninetales",
+      "Img": "ninetales.png",
+      "Type": [
+        "Fire"
+      ],
+      "Desc": "It is said to live 1,000 years, and each of its tails is loaded with supernatural powers.",
+      "BColor": "#ef875c",
+      "FColor": "#000",
+      "Prev": [
+        "Vulpix"
+      ],
+      "Next": [],
+      "Ability": [
+        "Flash Fire"
+      ],
+      "Rating": {
+        "Score": 1,
+        "Total": 1
       }
     }
   ]
