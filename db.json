@@ -877,6 +877,22 @@
         "Score": 6,
         "Total": 7
       }
+    },
+    {
+      "id": 8989,
+      "Name": "lololol",
+      "Img": "lololol.png",
+      "Type": [],
+      "Desc": "",
+      "BColor": "#FFF",
+      "FColor": "#000",
+      "Prev": [],
+      "Next": [],
+      "Ability": [],
+      "Rating": {
+        "Score": 1,
+        "Total": 1
+      }
     }
   ]
 }
