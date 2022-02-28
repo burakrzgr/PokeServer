@@ -26,7 +26,7 @@
       }
     },
     {
-      "id": 5,
+      "id": 4,
       "Name": "Charmander",
       "Img": "charmander.png",
       "Type": [
@@ -340,7 +340,7 @@
         "Water"
       ],
       "Desc": "Seadra, hayali Pokémon türlerinden biridir. Horsea gibi hem zehir, hem de su pokemonudur. Seadra zehri ile suyu karıştırıp saldırı yapabilme özelliğine sahiptir. Seadra bir kez daha evrimleşirse Kingdra'ya dönüşür, evrimin ikinci aşamasıdır. Bir gelişmemiş hali Horsea'dır.",
-      "BColor": "#30a7d7",
+      "BColor": "#61a6f6",
       "FColor": "#000",
       "Prev": [
         "Horsea"
@@ -353,8 +353,8 @@
         "Sniper"
       ],
       "Rating": {
-        "Score": 25,
-        "Total": 30
+        "Score": 1,
+        "Total": 1
       }
     },
     {
@@ -699,7 +699,7 @@
       }
     },
     {
-      "id": "3",
+      "id": 3,
       "Name": "Venusaur",
       "Img": "venusaur.png",
       "Type": [
@@ -719,6 +719,188 @@
       "Rating": {
         "Score": 1,
         "Total": 1
+      }
+    },
+    {
+      "id": 5,
+      "Name": "Charmeleon",
+      "Img": "charmeleon.png",
+      "Type": [
+        "Fire"
+      ],
+      "Desc": "It has a barbaric nature. In battle, it whips its fiery tail around and slashes away with sharp claws.",
+      "BColor": "#ef875c",
+      "FColor": "#ffffff",
+      "Prev": [
+        "Charmander"
+      ],
+      "Next": [
+        "Charizard"
+      ],
+      "Ability": [
+        "Blaze"
+      ],
+      "Rating": {
+        "Score": 1,
+        "Total": 1
+      }
+    },
+    {
+      "id": 6,
+      "Name": "Charizard",
+      "Img": "charizard.png",
+      "Type": [
+        "Fire",
+        "Flying"
+      ],
+      "Desc": "It spits fire that is hot enough to melt boulders. It may cause forest fires by blowing flames.",
+      "BColor": "#ef875c",
+      "FColor": "#ffffff",
+      "Prev": [
+        "Charmeleon"
+      ],
+      "Next": [],
+      "Ability": [
+        "Blaze"
+      ],
+      "Rating": {
+        "Score": 1,
+        "Total": 1
+      }
+    },
+    {
+      "id": 7,
+      "Name": "Squirtle",
+      "Img": "squirtle.png",
+      "Type": [
+        "Water"
+      ],
+      "Desc": "When it retracts its long neck into its shell, it squirts out water with vigorous force.",
+      "BColor": "#61a6f6",
+      "FColor": "#000000",
+      "Prev": [],
+      "Next": [
+        "Wartortle"
+      ],
+      "Ability": [
+        "Torrent"
+      ],
+      "Rating": {
+        "Score": 1,
+        "Total": 1
+      }
+    },
+    {
+      "id": 8,
+      "Name": "Wartortle",
+      "Img": "wartortle.png",
+      "Type": [
+        "Water"
+      ],
+      "Desc": "It is recognized as a symbol of longevity. If its shell has algae on it, that Wartortle is very old.",
+      "BColor": "#61a6f6",
+      "FColor": "#000",
+      "Prev": [
+        "Squirtle"
+      ],
+      "Next": [
+        "Blastoise"
+      ],
+      "Ability": [
+        "Torrent"
+      ],
+      "Rating": {
+        "Score": 1,
+        "Total": 1
+      }
+    },
+    {
+      "id": 9,
+      "Name": "Blastoise",
+      "Img": "blastoise.png",
+      "Type": [
+        "Water"
+      ],
+      "Desc": "It crushes its foe under its heavy body to cause fainting. In a pinch, it will withdraw inside its shell.",
+      "BColor": "#61a6f6",
+      "FColor": "#000",
+      "Prev": [
+        "Wartortle"
+      ],
+      "Next": [],
+      "Ability": [],
+      "Rating": {
+        "Score": 1,
+        "Total": 1
+      }
+    },
+    {
+      "id": 10,
+      "Name": "Caterpie",
+      "Img": "caterpie.png",
+      "Type": [
+        "Bug"
+      ],
+      "Desc": "For protection, it releases a horrible stench from the antenna on its head to drive away enemies.",
+      "BColor": "#195d11",
+      "FColor": "#ffffff",
+      "Prev": [],
+      "Next": [
+        "Metapod"
+      ],
+      "Ability": [
+        "Shield Dust"
+      ],
+      "Rating": {
+        "Score": 1,
+        "Total": 1
+      }
+    },
+    {
+      "id": 11,
+      "Name": "Metapod",
+      "Img": "metapod.png",
+      "Type": [
+        "Bug"
+      ],
+      "Desc": "It is waiting for the moment to evolve. At this stage, it can only harden, so it remains motionless to avoid attack.",
+      "BColor": "#195d11",
+      "FColor": "#ffffff",
+      "Prev": [
+        "Caterpie"
+      ],
+      "Next": [
+        "Butterfree"
+      ],
+      "Ability": [
+        "Shed Skin"
+      ],
+      "Rating": {
+        "Score": 73,
+        "Total": 79
+      }
+    },
+    {
+      "id": 12,
+      "Name": "Butterfree",
+      "Img": "butterfree.png",
+      "Type": [
+        "Bug",
+        "Flying"
+      ],
+      "Desc": "In battle, it flaps its wings at great speed to release highly toxic dust into the air.",
+      "BColor": "#b8e986",
+      "FColor": "#000000",
+      "Prev": [
+        "Metapod"
+      ],
+      "Next": [],
+      "Ability": [
+        "Compound Eyes"
+      ],
+      "Rating": {
+        "Score": 6,
+        "Total": 7
       }
     }
   ]
