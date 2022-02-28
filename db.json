@@ -651,31 +651,6 @@
       }
     },
     {
-      "id": 999,
-      "Name": "test",
-      "Img": "test.png",
-      "Type": [
-        "Water",
-        "Electric"
-      ],
-      "Desc": "Lolizim yaşayacak!!!",
-      "BColor": "#f5a623",
-      "FColor": "#555533",
-      "Prev": [
-        "test"
-      ],
-      "Next": [
-        "test"
-      ],
-      "Ability": [
-        "test"
-      ],
-      "Rating": {
-        "Score": 1,
-        "Total": 1
-      }
-    },
-    {
       "id": 1,
       "Name": "Bulbasaur",
       "Img": "bulbasaur.png",
