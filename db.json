@@ -116,7 +116,7 @@
       }
     },
     {
-      "id": "38",
+      "id": 38,
       "Name": "Ninetales",
       "Img": "ninetales.png",
       "Type": [
@@ -124,7 +124,7 @@
       ],
       "Desc": "It is said to live 1,000 years, and each of its tails is loaded with supernatural powers.",
       "BColor": "#ef875c",
-      "FColor": "#000",
+      "FColor": "#ffffff",
       "Prev": [
         "Vulpix"
       ],
@@ -133,8 +133,8 @@
         "Flash Fire"
       ],
       "Rating": {
-        "Score": 8,
-        "Total": 9
+        "Score": 1,
+        "Total": 1
       }
     },
     {
@@ -651,14 +651,14 @@
       }
     },
     {
-      "id": "999",
+      "id": 999,
       "Name": "test",
       "Img": "test.png",
       "Type": [
-        "Grass",
-        "Water"
+        "Water",
+        "Electric"
       ],
-      "Desc": "Test test",
+      "Desc": "Lolizim yaşayacak!!!",
       "BColor": "#f5a623",
       "FColor": "#555533",
       "Prev": [
@@ -671,8 +671,54 @@
         "test"
       ],
       "Rating": {
-        "Score": 14,
-        "Total": 17
+        "Score": 1,
+        "Total": 1
+      }
+    },
+    {
+      "id": 1,
+      "Name": "Bulbasaur",
+      "Img": "bulbasaur.png",
+      "Type": [
+        "Grass",
+        "Poison"
+      ],
+      "Desc": "There is a plant seed on its back right from the day this Pokémon is born. The seed slowly grows larger.",
+      "BColor": "#35687a",
+      "FColor": "#ffffff",
+      "Prev": [],
+      "Next": [
+        "Ivysaur"
+      ],
+      "Ability": [
+        "Overgrow"
+      ],
+      "Rating": {
+        "Score": 1,
+        "Total": 1
+      }
+    },
+    {
+      "id": "3",
+      "Name": "Venusaur",
+      "Img": "venusaur.png",
+      "Type": [
+        "Grass",
+        "Poison"
+      ],
+      "Desc": "Its plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight.",
+      "BColor": "#35687a",
+      "FColor": "#ffffff",
+      "Prev": [
+        "Iyvsaur"
+      ],
+      "Next": [],
+      "Ability": [
+        "Overgrow"
+      ],
+      "Rating": {
+        "Score": 1,
+        "Total": 1
       }
     }
   ]
