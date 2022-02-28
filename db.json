@@ -649,6 +649,31 @@
         "Score": 5,
         "Total": 538
       }
+    },
+    {
+      "id": "999",
+      "Name": "test",
+      "Img": "test.png",
+      "Type": [
+        "Grass",
+        "Water"
+      ],
+      "Desc": "Test test",
+      "BColor": "#f5a623",
+      "FColor": "#555533",
+      "Prev": [
+        "test"
+      ],
+      "Next": [
+        "test"
+      ],
+      "Ability": [
+        "test"
+      ],
+      "Rating": {
+        "Score": 14,
+        "Total": 17
+      }
     }
   ]
 }
