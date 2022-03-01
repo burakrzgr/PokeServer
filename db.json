@@ -1039,8 +1039,8 @@
         "Ground"
       ],
       "Desc": "This Pokémon lives in cold water. It will leave the water to search for food when it gets cold outside.",
-      "BColor": "#61a6f6",
-      "FColor": "#000",
+      "BColor": "#243456",
+      "FColor": "#f1e3d4",
       "Prev": [],
       "Next": [
         "Quagsire"
