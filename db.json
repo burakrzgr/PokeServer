@@ -10,7 +10,7 @@
       ],
       "Desc": "Ivysaur, mavi-yeşil lekeli, kurbağa ve dinozor benzeri bir Pokémo'dur. Gözleri parlak kırmızıdır, ancak bu Pokémo'un en önemli özelliği sırtında taşıdığı çiçek tomurcuğudur. Bulbasaur Ivysaur'ın evrimleşmemiş halidir. Bulbasaurken dişleri küçüktü, kulakiçi belli değildi ve gözbebekleri daha küçüktü. Ivysaur'ın rengi Bulbasaur'dan daha mavidir. Ivysaur'ın görüntüsüdeki en büyük fark çiçek soğanı artık bir çiçek tomurcuğu olmuştu. Bu tomurcuk ağır olduğundan arka bacakları kuvvetlenir ancak büyümek pahasına ayağa kalkma yeteneğini yitirir.",
       "BColor": "#35687a",
-      "FColor": "#fff",
+      "FColor": "#afceae",
       "Prev": [
         "Bulbasaur"
       ],
@@ -21,8 +21,8 @@
         "Overgrow"
       ],
       "Rating": {
-        "Score": 24,
-        "Total": 36
+        "Score": 1,
+        "Total": 1
       }
     },
     {
@@ -32,9 +32,9 @@
       "Type": [
         "Fire"
       ],
-      "Desc": "Charmander, kuyruğunda alev bulunan bir kertenkele Pokémo'udur. Bu ışık  Pokémo'un sağlık durumunu gösterir. Alev zayıfsa, Pokemon çok iyi değil ve ilgilenilmesi gerekmektedir. İlk aşamalarda 60 cm'ye kadar boyu vardır ve 8.5 kg ağırlığındadır. Düşman pet ana hasar o bir ejderha tabanı gibi, nefes alevleri, ilgilenir. İlk başta, daha doğrusu zayıf düşmana hasar seviyesi ancak Charmander evrimi bu eksikliği gidermek için yardımcı olacaktır. ",
+      "Desc": "Charmander, kuyruğunda alev bulunan bir kertenkele Pokémo'udur. Bu ışık  Pokémo'un sağlık durumunu gösterir. Alev zayıfsa, Pokemon çok iyi değil ve ilgilenilmesi gerekmektedir. İlk aşamalarda 60 cm'ye kadar boyu vardır ve 8.5 kg ağırlığındadır. Düşman pet ana hasar o bir ejderha tabanı gibi, nefes alevleri, ilgilenir. İlk başta, daha doğrusu zayıf düşmana hasar seviyesi ancak Charmander evrimi bu eksikliği gidermek için yardımcı olacaktır.",
       "BColor": "#ef875c",
-      "FColor": "#ffffff",
+      "FColor": "#fffde4",
       "Prev": [],
       "Next": [
         "Charmeleon"
@@ -43,8 +43,8 @@
         "Blaze"
       ],
       "Rating": {
-        "Score": 158,
-        "Total": 195
+        "Score": 1,
+        "Total": 1
       }
     },
     {
@@ -102,7 +102,7 @@
       ],
       "Desc": "Vulpix tilki benzeri bir ateş pokemo'udur. Evrim geçirip daha fazla kuyruk kazanır ve Ninetales'e dönüşür.",
       "BColor": "#ef875c",
-      "FColor": "#ffffff",
+      "FColor": "#fffde4",
       "Prev": [],
       "Next": [
         "Ninetales"
@@ -111,8 +111,8 @@
         "Flash Fire"
       ],
       "Rating": {
-        "Score": 24,
-        "Total": 27
+        "Score": 1,
+        "Total": 1
       }
     },
     {
@@ -124,7 +124,7 @@
       ],
       "Desc": "It is said to live 1,000 years, and each of its tails is loaded with supernatural powers.",
       "BColor": "#ef875c",
-      "FColor": "#ffffff",
+      "FColor": "#fffde4",
       "Prev": [
         "Vulpix"
       ],
@@ -147,7 +147,7 @@
       ],
       "Desc": "Jigglypuff, şarkı söylediğinde herkesi uyutma gibi bir özelliği vardır. Jigglypuff uyuyan kişilere çok kızar ve yüzlerini çeşitli şekillere boyayıp onları cezalandırır. Gelişmemiş formu Igglybuff, gelişmiş formu Wigglytuff'tır. Wigglytuff, Jigglypuff kadar sevimli değildir ve Jigglypuff'a nazaran 7 kat güçlenmiştir. Wigglytuff normal ve peri türünde bir balon pokémonu olarak bilinir. Büyük yuvarlak gözlere, tavşan kulaklara ve bir tutam pembe saça sahiptir. Güzel kürkü, kendisine dokundurmaya teşvik eder. Havayı içine çekerek bedenini genişletebilir. Bir peri pokemonu olan Wigglytuff, evrimin son aşamasındadır. Aynı zamanda ilk nesil pokemonlardan biridir. Wigglytuff daha fazla gelişemez, bir gelişmemiş hali Jigglypuff’tır.",
       "BColor": "#f1d9e3",
-      "FColor": "#000",
+      "FColor": "#215486",
       "Prev": [
         "Igglybuff"
       ],
@@ -159,8 +159,8 @@
         "Competitive"
       ],
       "Rating": {
-        "Score": 8,
-        "Total": 14
+        "Score": 1,
+        "Total": 1
       }
     },
     {
@@ -173,7 +173,7 @@
       ],
       "Desc": "Oddish, Plimp olarak da bilinir. Bitki ve zehir tipi Pokémon türünden biridir. Oddish 'tuhaf' anlamına gelen odd ve turp anlamına gelen 'radish' sözcüklerinin birleşmesiyle oluşmuştur. Orijinal Japonca isminde ise 'Nazono' gizemli, enigmatik anlamlarına gelirken 'Kusa' da çimen anlamına gelir.",
       "BColor": "#35687a",
-      "FColor": "#ffffff",
+      "FColor": "#afceae",
       "Prev": [],
       "Next": [
         "Gloom"
@@ -182,8 +182,8 @@
         "Chlorophyll"
       ],
       "Rating": {
-        "Score": 5,
-        "Total": 7
+        "Score": 1,
+        "Total": 1
       }
     },
     {
@@ -196,7 +196,7 @@
       ],
       "Desc": "Gloom, tepesindeki bitki kısmına ait olan dişi organ çok kötü bir koku yayamaktadır. Bu yayılan kokuyu 1.25 mil öteden bile alamk mümkündür. Oddish'in bir sonraki evresidir. Vileplume ve Bellosom türlerinin ikisinden birine evrilebilir.",
       "BColor": "#35687a",
-      "FColor": "#ffffff",
+      "FColor": "#afceae",
       "Prev": [
         "Oddish"
       ],
@@ -208,8 +208,8 @@
         "Chlorophyll"
       ],
       "Rating": {
-        "Score": 7,
-        "Total": 8
+        "Score": 1,
+        "Total": 1
       }
     },
     {
@@ -222,7 +222,7 @@
       ],
       "Desc": "Vileplume, yapraklarından zehirli gaz yayılamktadır. Gloom gibi tepesindeki bitki kısmına ait olan dişi organ çok kötü bir koku yayamaktadır.",
       "BColor": "#35687a",
-      "FColor": "#ffffff",
+      "FColor": "#afceae",
       "Prev": [
         "Gloom"
       ],
@@ -231,8 +231,8 @@
         "Chlorophyll"
       ],
       "Rating": {
-        "Score": 13,
-        "Total": 15
+        "Score": 1,
+        "Total": 1
       }
     },
     {
@@ -242,9 +242,9 @@
       "Type": [
         "Fighting"
       ],
-      "Desc": "Mankey maymunsu bir Pokemondur. Bu çevik pokempn ağaçlarda yaşar. It angers easily and will not hesitate to attack anything. ",
-      "BColor": "#ff4d4d",
-      "FColor": "#000",
+      "Desc": "Mankey maymunsu bir Pokemondur. Bu çevik pokempn ağaçlarda yaşar. It angers easily and will not hesitate to attack anything.",
+      "BColor": "#fc5b49",
+      "FColor": "#dfdfdf",
       "Prev": [],
       "Next": [
         "Primeape"
@@ -254,8 +254,8 @@
         "Anger Point"
       ],
       "Rating": {
-        "Score": 10,
-        "Total": 16
+        "Score": 1,
+        "Total": 1
       }
     },
     {
@@ -265,9 +265,9 @@
       "Type": [
         "Psychic"
       ],
-      "Desc": "Kadabra, sarı tonları hakim insansı bir pokemondur. Uzun kulakları alnında pembe bir yıldızı ve uzun bıyıkları vardır. Eğer başı ağrırsa tuhaf bir alfa dalgası yayar. Sadece özellikle güçlü bir ruha sahip olanlar bu Pokémon’un eğitmeni olmayı umabilirler. ",
+      "Desc": "Kadabra, sarı tonları hakim insansı bir pokemondur. Uzun kulakları alnında pembe bir yıldızı ve uzun bıyıkları vardır. Eğer başı ağrırsa tuhaf bir alfa dalgası yayar. Sadece özellikle güçlü bir ruha sahip olanlar bu Pokémon’un eğitmeni olmayı umabilirler.",
       "BColor": "#f688c8",
-      "FColor": "#fff",
+      "FColor": "#fae3d2",
       "Prev": [
         "Abra"
       ],
@@ -279,8 +279,8 @@
         "Synchronize"
       ],
       "Rating": {
-        "Total": 36,
-        "Score": 35
+        "Score": 1,
+        "Total": 1
       }
     },
     {
@@ -292,8 +292,8 @@
         "Poison"
       ],
       "Desc": "Haunter, tüm evrimleri gibi Hayalet ve Zehir türüne sahiptir. Bu kombinasyona sahip başka bir Pokémon yoktur. Maçlarda Hayalet, Psişik ve Karanlık saldırılarından iki kat hasar almakta; Zehir, Böcek, Bitki ve Peri saldırılarından yarım hasar almakta; Normal, Dövüş ve Yer türlerinden hiç hasar almamakta; geri kalan türlerden normal değerde hasar almaktadır.",
-      "BColor": "#485648",
-      "FColor": "#fff",
+      "BColor": "#4a4856",
+      "FColor": "#e2d8e2",
       "Prev": [
         "Gastly"
       ],
@@ -304,8 +304,8 @@
         "Levitate"
       ],
       "Rating": {
-        "Total": 18,
-        "Score": 17
+        "Score": 1,
+        "Total": 1
       }
     },
     {
@@ -318,7 +318,7 @@
       ],
       "Desc": "Onix is a Pokémon composed of a giant chain of gray boulders that become smaller towards the tail. Its length makes it the tallest Rock-type Pokémon. It has black eyes and a rounded snout. On top of its head is a rocky spine. As it grows older, it becomes more rounded and smoother, eventually becoming similar to black diamonds. Inside its brain is a magnet that serves as an internal compass, guiding Onix wherever they need to go and prevents them from getting lost while digging.",
       "BColor": "#faf68c",
-      "FColor": "#000",
+      "FColor": "#473602",
       "Prev": [],
       "Next": [
         "Steelix"
@@ -328,7 +328,7 @@
         "Sturdy"
       ],
       "Rating": {
-        "Score": 0,
+        "Score": 1,
         "Total": 1
       }
     },
@@ -418,7 +418,7 @@
       ],
       "Desc": "Dragonair, bu pokemon bozulmamış göllerde ve okyanuslarda yaşar. Hava durumunu kontrol edebilimektedir, Gücünü kullanarak ookyanusların üzerinden rüzgarı kontrol ederek gökyüzüne doğru uçabilir.",
       "BColor": "#BC807F",
-      "FColor": "#fff",
+      "FColor": "#02244b",
       "Prev": [
         "Dratini"
       ],
@@ -429,8 +429,8 @@
         "Shed Skin"
       ],
       "Rating": {
-        "Score": 37,
-        "Total": 37
+        "Score": 1,
+        "Total": 1
       }
     },
     {
@@ -443,7 +443,7 @@
       ],
       "Desc": "It’s a kindhearted Pokémon. If it spots a drowning person or Pokémon, Dragonite simply must help them.",
       "BColor": "#e8a14f",
-      "FColor": "#fff",
+      "FColor": "#033168",
       "Prev": [
         "Dragonair"
       ],
@@ -452,8 +452,8 @@
         "Inner Focus"
       ],
       "Rating": {
-        "Score": 66,
-        "Total": 67
+        "Score": 1,
+        "Total": 1
       }
     },
     {
@@ -465,15 +465,15 @@
       ],
       "Desc": "Mew, son zamanlarda Japonya Kıtası'nda keşfedilmiş, Faraway Island denilen yerde yaşayan, bilinmeyen ve eski bir uygarlığa ait gizemli psişik tipi, efsanevi bir Pokémondur. Aynı zamanda, bilim insanları teorisi gerekçesi ile; Mew'in bütün pokemonların atası olduğu düşünülmektedir. Dış görünüş olarak miyavlamakta olan uçan çocuksu bir kediden farkı yoktur. Kanto kıtası pokemonlarının yani 1.nesil pokemonlarının sonuncusudur ve ulusal pokedex numarası 151'dir. Öğrenme yeteneği, yani zekası en yüksek olan pokemondur. Hatta bu olay gizemli pokemon kaynaklarında da belirtilmiştir. Üstelik Mew, çok zeki olduğundan dolayı bütün pokemonların saldırısını kullanabilir, tüm makineye bağlanmış pokemon saldırılarını (TM - HM) kullanmayı öğrenebilir ve geçici süre diğer pokemonlara dönüşebilir artı dönüştüğü pokemonların bütün özelliklerini kullanabilir.Mew aynı zamanda itaatsizliğiyle tanınan bir pokemondur, bu oyunlarda da gösterilmiştir Mewtwo'yu trade ile başka bir konsola gönderdiğinde mew ortaya çıkıyor.Bunun dışında elde edildiğinde itaat etmiyor.",
       "BColor": "#f688c8",
-      "FColor": "#fff",
+      "FColor": "#fae3d2",
       "Prev": [],
       "Next": [],
       "Ability": [
         "Synchronize"
       ],
       "Rating": {
-        "Score": 292,
-        "Total": 293
+        "Score": 14,
+        "Total": 15
       }
     },
     {
@@ -529,15 +529,15 @@
       ],
       "Desc": "Bu Pokémon antik bir alfabenin harfleri şeklindedir. Antik alfabemi önce çıktı yoksa Unow'larmı bilinmez. Bu konuda araştırmalar sürüyor fakat kayda değer bir ilerleme sağlanamadı.",
       "BColor": "#f688c8",
-      "FColor": "#fff",
+      "FColor": "#fae3d2",
       "Prev": [],
       "Next": [],
       "Ability": [
         "Levitate"
       ],
       "Rating": {
-        "Score": 66,
-        "Total": 95
+        "Score": 1,
+        "Total": 1
       }
     },
     {
@@ -616,7 +616,7 @@
       ],
       "Desc": "By releasing enmity-erasing waves from its ribbonlike feelers, Sylveon stops any conflict.",
       "BColor": "#ffb3d9",
-      "FColor": "#000",
+      "FColor": "#215486",
       "Prev": [
         "Eevee"
       ],
@@ -625,8 +625,8 @@
         "Cute Charm"
       ],
       "Rating": {
-        "Score": 29,
-        "Total": 33
+        "Score": 1,
+        "Total": 1
       }
     },
     {
@@ -660,7 +660,7 @@
       ],
       "Desc": "There is a plant seed on its back right from the day this Pokémon is born. The seed slowly grows larger.",
       "BColor": "#35687a",
-      "FColor": "#ffffff",
+      "FColor": "#afceae",
       "Prev": [],
       "Next": [
         "Ivysaur"
@@ -669,8 +669,8 @@
         "Overgrow"
       ],
       "Rating": {
-        "Score": 8,
-        "Total": 11
+        "Score": 1,
+        "Total": 1
       }
     },
     {
@@ -683,7 +683,7 @@
       ],
       "Desc": "Its plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight.",
       "BColor": "#35687a",
-      "FColor": "#ffffff",
+      "FColor": "#afceae",
       "Prev": [
         "Iyvsaur"
       ],
@@ -705,7 +705,7 @@
       ],
       "Desc": "It has a barbaric nature. In battle, it whips its fiery tail around and slashes away with sharp claws.",
       "BColor": "#ef875c",
-      "FColor": "#ffffff",
+      "FColor": "#fffde4",
       "Prev": [
         "Charmander"
       ],
@@ -729,8 +729,8 @@
         "Flying"
       ],
       "Desc": "It spits fire that is hot enough to melt boulders. It may cause forest fires by blowing flames.",
-      "BColor": "#ef875c",
-      "FColor": "#ffffff",
+      "BColor": "#d6a18a",
+      "FColor": "#2e2e2e",
       "Prev": [
         "Charmeleon"
       ],
@@ -818,7 +818,7 @@
       ],
       "Desc": "For protection, it releases a horrible stench from the antenna on its head to drive away enemies.",
       "BColor": "#195d11",
-      "FColor": "#ffffff",
+      "FColor": "#cdebbc",
       "Prev": [],
       "Next": [
         "Metapod"
@@ -840,7 +840,7 @@
       ],
       "Desc": "It is waiting for the moment to evolve. At this stage, it can only harden, so it remains motionless to avoid attack.",
       "BColor": "#195d11",
-      "FColor": "#ffffff",
+      "FColor": "#cdebbc",
       "Prev": [
         "Caterpie"
       ],
@@ -851,8 +851,8 @@
         "Shed Skin"
       ],
       "Rating": {
-        "Score": 73,
-        "Total": 79
+        "Score": 1,
+        "Total": 1
       }
     },
     {
@@ -865,7 +865,7 @@
       ],
       "Desc": "In battle, it flaps its wings at great speed to release highly toxic dust into the air.",
       "BColor": "#b8e986",
-      "FColor": "#000000",
+      "FColor": "#192e00",
       "Prev": [
         "Metapod"
       ],
@@ -874,8 +874,248 @@
         "Compound Eyes"
       ],
       "Rating": {
-        "Score": 6,
-        "Total": 7
+        "Score": 8,
+        "Total": 9
+      }
+    },
+    {
+      "id": 54,
+      "Name": "Psyduck",
+      "Img": "psyduck.png",
+      "Type": [
+        "Water"
+      ],
+      "Desc": "Psyduck is constantly beset by headaches. If the Pokémon lets its strange power erupt, apparently the pain subsides for a while.",
+      "BColor": "#61a6f6",
+      "FColor": "#000",
+      "Prev": [],
+      "Next": [
+        "Golduck"
+      ],
+      "Ability": [
+        "Damp",
+        "Cloud Nine"
+      ],
+      "Rating": {
+        "Score": 1,
+        "Total": 1
+      }
+    },
+    {
+      "id": 55,
+      "Name": "Golduck",
+      "Img": "golduck.png",
+      "Type": [
+        "Water"
+      ],
+      "Desc": "This Pokémon lives in gently flowing rivers. It paddles through the water with its long limbs, putting its graceful swimming skills on display",
+      "BColor": "#61a6f6",
+      "FColor": "#000",
+      "Prev": [
+        "Psyduck"
+      ],
+      "Next": [],
+      "Ability": [
+        "Damp",
+        "Cloud Nine"
+      ],
+      "Rating": {
+        "Score": 1,
+        "Total": 1
+      }
+    },
+    {
+      "id": 57,
+      "Name": "Primeape",
+      "Img": "primeape.png",
+      "Type": [
+        "Fighting"
+      ],
+      "Desc": "It stops being angry only when nobody else is around. To view this moment is very difficult.",
+      "BColor": "#fc5b49",
+      "FColor": "#dfdfdf",
+      "Prev": [
+        "Monkey"
+      ],
+      "Next": [],
+      "Ability": [
+        "Vital Spirit",
+        "Anger Point"
+      ],
+      "Rating": {
+        "Score": 1,
+        "Total": 1
+      }
+    },
+    {
+      "id": 63,
+      "Name": "Abra",
+      "Img": "abra.png",
+      "Type": [
+        "Psychic"
+      ],
+      "Desc": "This Pokémon uses its psychic powers while it sleeps. The contents of Abra’s dreams affect the powers that the Pokémon wields.",
+      "BColor": "#f688c8",
+      "FColor": "#fae3d2",
+      "Prev": [],
+      "Next": [],
+      "Ability": [
+        "Inner Focus",
+        "Synchronize"
+      ],
+      "Rating": {
+        "Score": 1,
+        "Total": 1
+      }
+    },
+    {
+      "id": 65,
+      "Name": "Alakazam",
+      "Img": "alakazam.png",
+      "Type": [
+        "Psychic"
+      ],
+      "Desc": "It has an incredibly high level of intelligence. Some say that Alakazam remembers everything that ever happens to it, from birth till death.",
+      "BColor": "#f688c8",
+      "FColor": "#fae3d2",
+      "Prev": [],
+      "Next": [],
+      "Ability": [
+        "Inner Focus",
+        "Synchronize"
+      ],
+      "Rating": {
+        "Score": 1,
+        "Total": 1
+      }
+    },
+    {
+      "id": 250,
+      "Name": "Ho-Oh",
+      "Img": "ho-oh.png",
+      "Type": [
+        "Fire",
+        "Flying"
+      ],
+      "Desc": "Ho-Oh’s feathers glow in seven colors depending on the angle at which they are struck by light. These feathers are said to bring happiness to the bearers. This Pokémon is said to live at the foot of a rainbow.",
+      "BColor": "#d6a18a",
+      "FColor": "#2e2e2e",
+      "Prev": [],
+      "Next": [],
+      "Ability": [
+        "Pressure"
+      ],
+      "Rating": {
+        "Score": 1,
+        "Total": 1
+      }
+    },
+    {
+      "id": 150,
+      "Name": "Mewtwo",
+      "Img": "mewtwo.png",
+      "Type": [
+        "Psychic"
+      ],
+      "Desc": "Its DNA is almost the same as Mew’s. However, its size and disposition are vastly different.",
+      "BColor": "#f688c8",
+      "FColor": "#fae3d2",
+      "Prev": [],
+      "Next": [],
+      "Ability": [
+        "Pressure"
+      ],
+      "Rating": {
+        "Score": 1,
+        "Total": 1
+      }
+    },
+    {
+      "id": 194,
+      "Name": "Wooper",
+      "Img": "wooper.png",
+      "Type": [
+        "Water",
+        "Ground"
+      ],
+      "Desc": "This Pokémon lives in cold water. It will leave the water to search for food when it gets cold outside.",
+      "BColor": "#61a6f6",
+      "FColor": "#000",
+      "Prev": [],
+      "Next": [
+        "Quagsire"
+      ],
+      "Ability": [
+        "Damp",
+        "Water Absorb"
+      ],
+      "Rating": {
+        "Score": 1,
+        "Total": 1
+      }
+    },
+    {
+      "id": 92,
+      "Name": "Gastly",
+      "Img": "gastly.png",
+      "Type": [
+        "Ghost",
+        "Poison"
+      ],
+      "Desc": "Born from gases, anyone would faint if engulfed by its gaseous body, which contains poison.",
+      "BColor": "#4a4856",
+      "FColor": "#e2d8e2",
+      "Prev": [],
+      "Next": [
+        "Haunter"
+      ],
+      "Ability": [
+        "Levitate"
+      ],
+      "Rating": {
+        "Score": 1,
+        "Total": 1
+      }
+    },
+    {
+      "id": 778,
+      "Name": "Mimikyu",
+      "Img": "mimikyu.png",
+      "Type": [
+        "Ghost",
+        "Fairy"
+      ],
+      "Desc": "It wears a rag fashioned into a Pikachu costume in an effort to look less scary. Unfortunately, the costume only makes it creepier.",
+      "BColor": "#b592bd",
+      "FColor": "#490138",
+      "Prev": [],
+      "Next": [],
+      "Ability": [
+        "Disguise"
+      ],
+      "Rating": {
+        "Score": 1,
+        "Total": 1
+      }
+    },
+    {
+      "id": 200,
+      "Name": "Misdreavus",
+      "Img": "misdreavus.png",
+      "Type": [
+        "Ghost"
+      ],
+      "Desc": "What gives meaning to its life is surprising others. If you set your ear against the red orbs around its neck, you can hear shrieking.",
+      "BColor": "#643f8d",
+      "FColor": "#aaddd1",
+      "Prev": [],
+      "Next": [],
+      "Ability": [
+        "Levitate"
+      ],
+      "Rating": {
+        "Score": 1,
+        "Total": 1
       }
     }
   ]
