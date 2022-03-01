@@ -67,8 +67,8 @@
         "Static"
       ],
       "Rating": {
-        "Score": 176,
-        "Total": 255
+        "Score": 201,
+        "Total": 293
       }
     },
     {
@@ -418,7 +418,7 @@
       ],
       "Desc": "Dragonair, bu pokemon bozulmamış göllerde ve okyanuslarda yaşar. Hava durumunu kontrol edebilimektedir, Gücünü kullanarak ookyanusların üzerinden rüzgarı kontrol ederek gökyüzüne doğru uçabilir.",
       "BColor": "#BC807F",
-      "FColor": "#02244b",
+      "FColor": "#023d80",
       "Prev": [
         "Dratini"
       ],
@@ -443,7 +443,7 @@
       ],
       "Desc": "It’s a kindhearted Pokémon. If it spots a drowning person or Pokémon, Dragonite simply must help them.",
       "BColor": "#e8a14f",
-      "FColor": "#033168",
+      "FColor": "#013e8a",
       "Prev": [
         "Dragonair"
       ],
@@ -594,7 +594,7 @@
       ],
       "Desc": "Glaceon, yarattığı kar yağışının güzelliğine kapılan her kimse daha farkına varmadan donmuş olacaktır",
       "BColor": "#9dd6e5",
-      "FColor": "#fff",
+      "FColor": "#011a42",
       "Prev": [
         "Eevee"
       ],
@@ -603,8 +603,8 @@
         "Snow Cloak"
       ],
       "Rating": {
-        "Score": 33,
-        "Total": 35
+        "Score": 1,
+        "Total": 1
       }
     },
     {
@@ -817,8 +817,8 @@
         "Bug"
       ],
       "Desc": "For protection, it releases a horrible stench from the antenna on its head to drive away enemies.",
-      "BColor": "#195d11",
-      "FColor": "#cdebbc",
+      "BColor": "#408a37",
+      "FColor": "#e6f8dc",
       "Prev": [],
       "Next": [
         "Metapod"
@@ -839,8 +839,8 @@
         "Bug"
       ],
       "Desc": "It is waiting for the moment to evolve. At this stage, it can only harden, so it remains motionless to avoid attack.",
-      "BColor": "#195d11",
-      "FColor": "#cdebbc",
+      "BColor": "#408a37",
+      "FColor": "#e6f8dc",
       "Prev": [
         "Caterpie"
       ],
@@ -864,7 +864,7 @@
         "Flying"
       ],
       "Desc": "In battle, it flaps its wings at great speed to release highly toxic dust into the air.",
-      "BColor": "#b8e986",
+      "BColor": "#95aa83",
       "FColor": "#192e00",
       "Prev": [
         "Metapod"
@@ -874,8 +874,8 @@
         "Compound Eyes"
       ],
       "Rating": {
-        "Score": 8,
-        "Total": 9
+        "Score": 1,
+        "Total": 1
       }
     },
     {
@@ -1112,6 +1112,54 @@
       "Next": [],
       "Ability": [
         "Levitate"
+      ],
+      "Rating": {
+        "Score": 1,
+        "Total": 1
+      }
+    },
+    {
+      "id": 9999,
+      "Name": "Portakal",
+      "Img": "portakal.png",
+      "Type": [
+        "Grass",
+        "Water"
+      ],
+      "Desc": "Test - Turunçgillerden bir meyve. Akdeniz çevresinde ve sıcaklık ortalaması 23° ila -3°C arasında olan yerlerde yetişen ağaçlardır. Bu ağaçların meyveleri portakal adını alır. Portakal meyveleri tam yuvarlak veya yumurta şeklindedir.",
+      "BColor": "#bb6b38",
+      "FColor": "#f1ccf8",
+      "Prev": [
+        "Portakal"
+      ],
+      "Next": [
+        "Portakal"
+      ],
+      "Ability": [
+        "Portakal"
+      ],
+      "Rating": {
+        "Score": 1,
+        "Total": 1
+      }
+    },
+    {
+      "id": 94,
+      "Name": "Gengar",
+      "Img": "gengar.png",
+      "Type": [
+        "Ghost",
+        "Poison"
+      ],
+      "Desc": "On the night of a full moon, if shadows move on their own and laugh, it must be Gengar’s doing.",
+      "BColor": "#4a4856",
+      "FColor": "#e2d8e2",
+      "Prev": [
+        "Haunter"
+      ],
+      "Next": [],
+      "Ability": [
+        "Cursed Body"
       ],
       "Rating": {
         "Score": 1,
