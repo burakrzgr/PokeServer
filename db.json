@@ -1165,6 +1165,30 @@
         "Score": 1,
         "Total": 1
       }
+    },
+    {
+      "id": 91,
+      "Name": "Cloyster",
+      "Img": "cloyster.png",
+      "Type": [
+        "Water",
+        "Ice"
+      ],
+      "Desc": "Its shell is extremely hard. It cannot be shattered, even with a bomb. The shell opens only when it is attacking.",
+      "BColor": "#56ceca",
+      "FColor": "#08184b",
+      "Prev": [
+        "Shellder"
+      ],
+      "Next": [],
+      "Ability": [
+        "Shell Armor",
+        "Skill Link"
+      ],
+      "Rating": {
+        "Score": 20,
+        "Total": 22
+      }
     }
   ]
 }
