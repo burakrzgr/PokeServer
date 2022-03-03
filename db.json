@@ -1127,13 +1127,13 @@
         "Water"
       ],
       "Desc": "Test - Turunçgillerden bir meyve. Akdeniz çevresinde ve sıcaklık ortalaması 23° ila -3°C arasında olan yerlerde yetişen ağaçlardır. Bu ağaçların meyveleri portakal adını alır. Portakal meyveleri tam yuvarlak veya yumurta şeklindedir.",
-      "BColor": "#bb6b38",
-      "FColor": "#f1ccf8",
+      "BColor": "#f38b1a",
+      "FColor": "#f3c3fc",
       "Prev": [
-        "Portakal"
+        "Mandalina"
       ],
       "Next": [
-        "Portakal"
+        "Mandalina"
       ],
       "Ability": [
         "Portakal"
@@ -1188,6 +1188,29 @@
       "Rating": {
         "Score": 20,
         "Total": 22
+      }
+    },
+    {
+      "id": 9998,
+      "Name": "Mandalina",
+      "Img": "mandalina.png",
+      "Type": [
+        "Water",
+        "Grass"
+      ],
+      "Desc": "Test - Mandalina (Citrus reticulata), ılıman iklimde yetişmekte olan turunçgiller (Rutaceae) familyasına ait bir meyve türü. Turuncu, sarı renklerde olan mandalina, etli ve sulu bir yapıya sahiptir. Partakaldan daha küçük, toparlak veya yassı, sarı-turuncu renkli, usaresi tatlı, hoş kokulu bir meyve.",
+      "BColor": "#f38b1a",
+      "FColor": "#f3c3fc",
+      "Prev": [
+        "Portakal"
+      ],
+      "Next": [
+        "Portakal"
+      ],
+      "Ability": [],
+      "Rating": {
+        "Score": 1,
+        "Total": 1
       }
     }
   ]
