@@ -1212,6 +1212,30 @@
         "Score": 1,
         "Total": 1
       }
+    },
+    {
+      "id": 81,
+      "Name": "Magnemite",
+      "Img": "magnemite.png",
+      "Type": [
+        "Electric",
+        "Steel"
+      ],
+      "Desc": "At times, Magnemite runs out of electricity and ends up on the ground. If you give batteries to a grounded Magnemite, it’ll start moving again.",
+      "BColor": "#c7c5ad",
+      "FColor": "#000",
+      "Prev": [],
+      "Next": [
+        "Magneton"
+      ],
+      "Ability": [
+        "Sturdy",
+        "Magnet Pull"
+      ],
+      "Rating": {
+        "Score": 1,
+        "Total": 1
+      }
     }
   ]
 }
