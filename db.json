@@ -133,8 +133,8 @@
         "Flash Fire"
       ],
       "Rating": {
-        "Score": 1,
-        "Total": 1
+        "Score": 9,
+        "Total": 13
       }
     },
     {
@@ -669,8 +669,8 @@
         "Overgrow"
       ],
       "Rating": {
-        "Score": 1,
-        "Total": 1
+        "Score": 51,
+        "Total": 61
       }
     },
     {
@@ -685,7 +685,7 @@
       "BColor": "#35687a",
       "FColor": "#afceae",
       "Prev": [
-        "Iyvsaur"
+        "Ivysaur"
       ],
       "Next": [],
       "Ability": [
@@ -716,8 +716,8 @@
         "Blaze"
       ],
       "Rating": {
-        "Score": 1,
-        "Total": 1
+        "Score": 64,
+        "Total": 78
       }
     },
     {
@@ -827,8 +827,8 @@
         "Shield Dust"
       ],
       "Rating": {
-        "Score": 1,
-        "Total": 1
+        "Score": 5,
+        "Total": 6
       }
     },
     {
@@ -1255,8 +1255,8 @@
         "Synchronize"
       ],
       "Rating": {
-        "Score": 1,
-        "Total": 1
+        "Score": 3,
+        "Total": 5
       }
     },
     {
@@ -1278,6 +1278,29 @@
         "Synchronize",
         "Trace",
         "Telepathy"
+      ],
+      "Rating": {
+        "Score": 1,
+        "Total": 1
+      }
+    },
+    {
+      "id": 122,
+      "Name": "Mr. Mime",
+      "Img": "mr.mime.png",
+      "Type": [
+        "Fairy",
+        "Psychic"
+      ],
+      "Desc": "Mr. Mime (Japanese: バリヤード Barrierd) is a dual-type Psychic/Fairy Pokémon introduced in Generation I. Prior to Generation VI, it was a pure Psychic-type Pokémon.\n\nIt evolves from Mime Jr. when leveled up while knowing Mimic.\n\nIn Galar, Mr. Mime has a dual-type Ice/Psychic regional form. It evolves into Mr. Rime starting at level 42. All Mime Jr. in Galar evolve into this form regardless of their origin. \n\nMr. Mime is a bipedal, humanoid Pokémon. Blue growths resembling clown hair extend from the sides of its pale pink head, and there is a magenta circle on each cheek. Its jaw is curved inward, resembling the mouth of a wooden dummy. It has a round, white body with a magenta spot in the middle, light pink arms and legs that connect to its body via magenta spheres, and small white coverings over its knees. Its white hands resemble gloves with magenta pads on the tips of its white fingers and its dark blue feet curl upward at the tips.\n\nFrom birth, this Pokémon is an excellent pantomime. As it matures, it gains the ability to solidify air molecules by vibrating its fingertips. This ability allows it to create invisible objects with its gestures. It punishes those who interrupt its act or are not impressed by slapping them. Mr. Mime is usually very rare, but can be found in suburban areas. In Generation II, Substitute was its signature move.",
+      "BColor": "#e4b4df",
+      "FColor": "#000",
+      "Prev": [],
+      "Next": [],
+      "Ability": [
+        "Soundproof",
+        "Filter",
+        "Technician"
       ],
       "Rating": {
         "Score": 1,
