@@ -100,7 +100,7 @@
       "Type": [
         "Fire"
       ],
-      "Desc": "Vulpix tilki benzeri bir ateş pokemo'udur. Evrim geçirip daha fazla kuyruk kazanır ve Ninetales'e dönüşür.",
+      "Desc": "Vulpix, küçük, tilki benzeri bir Pokémon'dur. Altı tüyleri olan bir kuyruğu vardır ve sıcak bir yerde yaşamak için uygun bir vücuda sahiptir. Vulpix, Ateş tipi bir Pokémon'dur. Bu nedenle, Vulpix'in saldırıları çoğunlukla ateş tabanlıdır. Vulpix'in yetenekleri arasında Drought ve Flash Fire bulunur. Drought, güneşli hava koşullarında Vulpix'in gücünü arttırırken, Flash Fire ateş saldırılarına karşı Vulpix'i korur. Vulpix, ayrıca çok yönlü bir Pokémon'dur ve saldırı, savunma ve destek rolü oynayabilir. Eğitmenler arasında popüler bir seçimdir ve sıklıkla başlangıç Pokémon olarak kullanılır.",
       "BColor": "#ef875c",
       "FColor": "#fffde4",
       "Prev": [],
@@ -122,7 +122,7 @@
       "Type": [
         "Fire"
       ],
-      "Desc": "It is said to live 1,000 years, and each of its tails is loaded with supernatural powers.",
+      "Desc": "Ninetales, Vulpix'in evrimleşmiş hali olarak kabul edilir. Onun kuyruğunda dokuz tüyleri vardır. Ninetales, Ateş tipi bir Pokémon'dur, bu nedenle saldırıları çoğunlukla ateş tabanlıdır. Ninetales'in yetenekleri arasında Drought ve Flash Fire bulunur. Drought, güneşli hava koşullarında Ninetales'in gücünü arttırırken, Flash Fire ateş saldırılarına karşı Ninetales'i korur. Ninetales, ayrıca çok yönlü bir Pokémon'dur ve saldırı, savunma ve destek rolü oynayabilir. Ninetales, eğitmenler arasında popüler bir seçimdir ve sıklıkla başlangıç Pokémon olarak kullanılır. Aynı zamanda Ninetales çok güçlü bir Pokémon'dur ve çeşitli hareketleri, örneğin Fire Spin, Psyshock, Energy Ball vb. var.",
       "BColor": "#ef875c",
       "FColor": "#fffde4",
       "Prev": [
@@ -133,8 +133,8 @@
         "Flash Fire"
       ],
       "Rating": {
-        "Score": 9,
-        "Total": 13
+        "Score": 1,
+        "Total": 1
       }
     },
     {
