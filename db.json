@@ -67,8 +67,8 @@
         "Static"
       ],
       "Rating": {
-        "Score": 1,
-        "Total": 1
+        "Score": 150,
+        "Total": 203
       }
     },
     {
@@ -89,8 +89,8 @@
         "Static"
       ],
       "Rating": {
-        "Score": 50,
-        "Total": 64
+        "Score": 52,
+        "Total": 67
       }
     },
     {
@@ -483,7 +483,7 @@
       "Type": [
         "Electric"
       ],
-      "Desc": "Pichu, Pikachu'nun evrimleşmeden önceki hali olan 172 numaralı bebek evredeki Pokémon. Pokémon video oyunlarından Pokémon Gold ve Silver'de ilk defa sahneye çıkmıştır. Pokémon anime versiyonunda ise ilk serinin 179. bölümü \"Pikachu to Pichu ve Pokemon Advance Generation serisinin de 179. bölümü'de çıkmıştır.",
+      "Desc": "Pichu, küçük, fare benzeri bir Pokémon'dur ve Pikachu'nun ön evrimidir. Yuvarlak bir vücuda, büyük kulaklar ve yıldırım şeklinde bir kuyruğa sahiptir. Sevimli görünümü ve oyuncul kişiliği ile tanınır. Pichu, Elektrik tipi bir Pokémon'dur ve Static adında bir yeteneği vardır, bu yetenek rakibinin felç olmasına neden olur. Pichu, ayrıca daha küçük ve hafif bir yapıya sahip olduğu için, hızlı hareketler yapmasına ve elektrik saldırıları yapmasına olanak tanır. Pichu, eğitmenler tarafından özellikle Pikachu'nun evrimleşmeden önce kullanılmak üzere seçilir ve sıklıkla başlangıç Pokémon olarak kullanılır.",
       "BColor": "#f7dc6f",
       "FColor": "#000000",
       "Prev": [],
@@ -494,8 +494,8 @@
         "Static"
       ],
       "Rating": {
-        "Score": 66,
-        "Total": 79
+        "Score": 1,
+        "Total": 1
       }
     },
     {
