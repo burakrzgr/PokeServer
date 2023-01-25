@@ -1307,5 +1307,37 @@
         "Total": 1
       }
     }
+  ],
+  "types":[
+    {
+        "id": 1,
+        "type": "Water",
+        "foreground": "#00BFFF",
+        "background": "#87CEEB"
+    },
+    {
+        "id": 2,
+        "type": "Fire",
+        "foreground": "#ff6961",
+        "background": "#ffa07a"
+    },
+    {
+        "id": 3,
+        "type": "Electric",
+        "foreground": "#ffff00",
+        "background": "#ffa500"
+    },
+    {
+        "id": 4,
+        "type": "Grass",
+        "foreground": "#7cfc00",
+        "background": "#32cd32"
+    },
+    {
+        "id": 5,
+        "type": "Ice",
+        "foreground": "#87cefa",
+        "background": "#00bfff"
+    },
   ]
 }
