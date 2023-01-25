@@ -32,7 +32,7 @@
       "Type": [
         "Fire"
       ],
-      "Desc": "Charmander, kuyruğunda alev bulunan bir kertenkele Pokémo'udur. Bu ışık  Pokémo'un sağlık durumunu gösterir. Alev zayıfsa, Pokemon çok iyi değil ve ilgilenilmesi gerekmektedir. İlk aşamalarda 60 cm'ye kadar boyu vardır ve 8.5 kg ağırlığındadır. Düşman pet ana hasar o bir ejderha tabanı gibi, nefes alevleri, ilgilenir. İlk başta, daha doğrusu zayıf düşmana hasar seviyesi ancak Charmander evrimi bu eksikliği gidermek için yardımcı olacaktır.",
+      "Desc": "Charmander, küçük, ejderha benzeri bir Pokémon'dur. Sırtındaki bir yıldız şeklinde parıltılı bir ampul vardır ve adını buradan alır. Charmander, Ateş tipi bir Pokémon'dur. Bu nedenle, Charmander'in saldırıları çoğunlukla ateş tabanlıdır. Charmander'in yetenekleri arasında Blaze bulunur. Blaze, Charmander'in HP azaldıkça saldırı gücünü arttırmasına neden olur. Charmander, eğitmenler arasında popüler bir seçimdir ve sıklıkla başlangıç Pokémon olarak kullanılır. Charmander, yavaş yavaş evrimleşirken, saldırı ve savunma gücünü arttıran yetenekler ve hareketler kazanır. Charmander özellikle oyunların başlangıç seviyelerinde popülerdir ve kolayca eğitilir",
       "BColor": "#ef875c",
       "FColor": "#fffde4",
       "Prev": [],
@@ -43,8 +43,8 @@
         "Blaze"
       ],
       "Rating": {
-        "Score": 10,
-        "Total": 15
+        "Score": 1,
+        "Total": 1
       }
     },
     {
@@ -703,7 +703,7 @@
       "Type": [
         "Fire"
       ],
-      "Desc": "It has a barbaric nature. In battle, it whips its fiery tail around and slashes away with sharp claws.",
+      "Desc": "Charmeleon, Charmander'in evrimleşmiş hali olarak kabul edilir. Daha büyük ve güçlü bir yapıya sahiptir ve sırtındaki ampul daha parlaktır. Charmeleon, Ateş tipi bir Pokémon'dur. Bu nedenle, Charmeleon'in saldırıları çoğunlukla ateş tabanlıdır. Charmeleon'in yetenekleri arasında Blaze bulunur. Blaze, Charmander'in HP azaldıkça saldırı gücünü arttırmasına neden olur. Charmeleon, eğitmenler arasında popüler bir seçimdir ve sıklıkla başlangıç Pokémon olarak kullanılır. Charmeleon, yavaş yavaş evrimleşirken, saldırı ve savunma gücünü arttıran yetenekler ve hareketler kazanır. Charmeleon aynı zamanda oyunların orta seviyelerinde popülerdir ve çok fazla hareket öğrenir.",
       "BColor": "#ef875c",
       "FColor": "#fffde4",
       "Prev": [
@@ -716,8 +716,8 @@
         "Blaze"
       ],
       "Rating": {
-        "Score": 64,
-        "Total": 78
+        "Score": 1,
+        "Total": 1
       }
     },
     {
@@ -728,7 +728,7 @@
         "Fire",
         "Flying"
       ],
-      "Desc": "It spits fire that is hot enough to melt boulders. It may cause forest fires by blowing flames.",
+      "Desc": "Charizard, Charmeleon'in evrimleşmiş hali olarak kabul edilir. Daha büyük ve güçlü bir yapıya sahiptir ve sırtındaki ampul daha parlaktır. Charizard, Ateş ve Hava tipi bir Pokémon'dur. Bu nedenle, Charizard'in saldırıları hem ateş hem de hava tabanlıdır. Charizard'in yetenekleri arasında Blaze bulunur. Blaze, Charmander'in HP azaldıkça saldırı gücünü arttırmasına neden olur. Charizard, eğitmenler arasında popüler bir seçimdir ve sıklıkla başlangıç Pokémon olarak kullanılır. Charizard, yavaş yavaş evrimleşirken, saldırı ve savunma gücünü arttıran yetenekler ve hareketler kazanır. Charizard, aynı zamanda oyunların en üst seviyelerinde ve turnuvalarda popülerdir çünkü çok güçlü bir Pokémon'dur ve çok fazla hareket öğrenir.",
       "BColor": "#d6a18a",
       "FColor": "#2e2e2e",
       "Prev": [
