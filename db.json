@@ -341,7 +341,7 @@
       ],
       "Desc": "Seadra, hayali Pokémon türlerinden biridir. Horsea gibi hem zehir, hem de su pokemonudur. Seadra zehri ile suyu karıştırıp saldırı yapabilme özelliğine sahiptir. Seadra bir kez daha evrimleşirse Kingdra'ya dönüşür, evrimin ikinci aşamasıdır. Bir gelişmemiş hali Horsea'dır.",
       "BColor": "#61a6f6",
-      "FColor": "#000",
+      "FColor": "#000060",
       "Prev": [
         "Horsea"
       ],
@@ -752,7 +752,7 @@
       ],
       "Desc": "Squirtle is a small, turtle-like Pokémon that is known for its strong defense and ability to shoot water from its mouth. It has a hard, protective shell on its back and its body is primarily blue in color. Squirtle is a Water-type Pokémon. Its abilities are Torrent and Rain Dish, the first increases the power of its water moves when its HP is low, while the second restore some of its HP in rain. Squirtle is a popular choice among trainers and is often used as a starting Pokémon due to its well-rounded abilities and versatility in battle. It learns several powerful water-based moves such as Water Gun, Hydro Pump, and Bubblebeam which makes it a great addition to any team.",
       "BColor": "#61a6f6",
-      "FColor": "#000000",
+      "FColor": "#000060",
       "Prev": [],
       "Next": [
         "Wartortle"
@@ -774,7 +774,7 @@
       ],
       "Desc": "Wartortle is the evolved form of Squirtle, and is a larger, more mature version of the Pokémon. It still retains its turtle-like appearance, but now has a thick, furry tail and longer ears. Wartortle is a Water-type Pokémon and its abilities are Torrent and Rain Dish, the first increases the power of its water moves when its HP is low, while the second restore some of its HP in rain. Wartortle is a popular choice among trainers and is often used as a starting Pokémon due to its well-rounded abilities and versatility in battle. It has more hitpoints, attack and defense power than Squirtle and it can learn a wider variety of moves that can take advantage of its well-rounded stats, like Bite, Ice Beam, Aqua Tail, and Rapid Spin. These moves make Wartortle a formidable opponent in battle.",
       "BColor": "#61a6f6",
-      "FColor": "#000",
+      "FColor": "#000060",
       "Prev": [
         "Squirtle"
       ],
@@ -797,8 +797,8 @@
         "Water"
       ],
       "Desc": "Blastoise is the final evolution of Squirtle, and is a large and heavily armored turtle-like Pokémon. It is known for its powerful water cannons that are located on its shoulders, and its sturdy and durable shell. Blastoise is a Water-type Pokémon and its abilities are Torrent and Rain Dish, the first increases the power of its water moves when its HP is low, while the second restore some of its HP in rain. Blastoise is a popular choice among trainers and is often used as a starting Pokémon due to its well-rounded abilities and versatility in battle. It has even more hitpoints, attack and defense power than Wartortle and it can learn powerful water-based moves like Hydro Cannon, Skull Bash, Dragon Pulse and Flash Cannon. These moves make Blastoise one of the strongest Pokémon in battle, and it's very useful for both offensive and defensive strategies.",
-      "BColor": "#87ceeb",
-      "FColor": "#000080",
+      "BColor": "#61a6f6",
+      "FColor": "#000060",
       "Prev": [
         "Wartortle"
       ],
@@ -887,7 +887,7 @@
       ],
       "Desc": "Psyduck is constantly beset by headaches. If the Pokémon lets its strange power erupt, apparently the pain subsides for a while.",
       "BColor": "#61a6f6",
-      "FColor": "#000",
+      "FColor": "#000060",
       "Prev": [],
       "Next": [
         "Golduck"
@@ -910,7 +910,7 @@
       ],
       "Desc": "This Pokémon lives in gently flowing rivers. It paddles through the water with its long limbs, putting its graceful swimming skills on display",
       "BColor": "#61a6f6",
-      "FColor": "#000",
+      "FColor": "#000060",
       "Prev": [
         "Psyduck"
       ],
@@ -1308,108 +1308,108 @@
       }
     }
   ],
-  "types":[
+  "types": [
     {
-        "id": 1,
-        "type": "Water",
-        "foreground": "#00BFFF",
-        "background": "#87CEEB"
+      "id": 1,
+      "type": "Water",
+      "foreground": "#00BFFF",
+      "background": "#87CEEB"
     },
     {
-        "id": 2,
-        "type": "Fire",
-        "foreground": "#ff6961",
-        "background": "#ffa07a"
+      "id": 2,
+      "type": "Fire",
+      "foreground": "#ff6961",
+      "background": "#ffa07a"
     },
     {
-        "id": 3,
-        "type": "Electric",
-        "foreground": "#ffff00",
-        "background": "#ffa500"
+      "id": 3,
+      "type": "Electric",
+      "foreground": "#ffff00",
+      "background": "#ffa500"
     },
     {
-        "id": 4,
-        "type": "Grass",
-        "foreground": "#7cfc00",
-        "background": "#32cd32"
+      "id": 4,
+      "type": "Grass",
+      "foreground": "#7cfc00",
+      "background": "#32cd32"
     },
     {
-        "id": 5,
-        "type": "Ice",
-        "foreground": "#87cefa",
-        "background": "#00bfff"
+      "id": 5,
+      "type": "Ice",
+      "foreground": "#87cefa",
+      "background": "#00bfff"
     },
     {
-        "id": 6,
-        "type": "Fighting",
-        "foreground": "#8b0000",
-        "background": "#8b0000"
+      "id": 6,
+      "type": "Fighting",
+      "foreground": "#8b0000",
+      "background": "#8b0000"
     },
     {
-        "id": 7,
-        "type": "Poison",
-        "foreground": "#a020f0",
-        "background": "#9370db"
+      "id": 7,
+      "type": "Poison",
+      "foreground": "#a020f0",
+      "background": "#9370db"
     },
     {
-        "id": 8,
-        "type": "Ground",
-        "foreground": "#8b4513",
-        "background": "#d2b48c"
+      "id": 8,
+      "type": "Ground",
+      "foreground": "#8b4513",
+      "background": "#d2b48c"
     },
     {
-        "id": 9,
-        "type": "Flying",
-        "foreground": "#87ceeb",
-        "background": "#00bfff"
+      "id": 9,
+      "type": "Flying",
+      "foreground": "#87ceeb",
+      "background": "#00bfff"
     },
     {
-        "id": 10,
-        "type": "Psychic",
-        "foreground": "#ff69b4",
-        "background": "#ff1493"
+      "id": 10,
+      "type": "Psychic",
+      "foreground": "#ff69b4",
+      "background": "#ff1493"
     },
     {
-        "id": 11,
-        "type": "Bug",
-        "foreground": "#6e9cbe",
-        "background": "#ffa600"
+      "id": 11,
+      "type": "Bug",
+      "foreground": "#6e9cbe",
+      "background": "#ffa600"
     },
     {
-        "id": 12,
-        "type": "Rock",
-        "foreground": "#8b4513",
-        "background": "#8b7d6b"
+      "id": 12,
+      "type": "Rock",
+      "foreground": "#8b4513",
+      "background": "#8b7d6b"
     },
     {
-        "id": 13,
-        "type": "Ghost",
-        "foreground": "#696969",
-        "background": "#6e7b8b"
+      "id": 13,
+      "type": "Ghost",
+      "foreground": "#696969",
+      "background": "#6e7b8b"
     },
     {
-        "id": 14,
-        "type": "Dragon",
-        "foreground": "#6a5acd",
-        "background": "#7b68ee"
+      "id": 14,
+      "type": "Dragon",
+      "foreground": "#6a5acd",
+      "background": "#7b68ee"
     },
     {
-        "id": 15,
-        "type": "Dark",
-        "foreground": "#8b0000",
-        "background": "#8b0000"
+      "id": 15,
+      "type": "Dark",
+      "foreground": "#8b0000",
+      "background": "#8b0000"
     },
     {
-        "id": 16,
-        "type": "Steel",
-        "foreground": "#b0c4de",
-        "background": "#708090"
+      "id": 16,
+      "type": "Steel",
+      "foreground": "#b0c4de",
+      "background": "#708090"
     },
     {
-        "id": 17,
-        "type": "Fairy",
-        "foreground": "#ff69b4",
-        "background": "#ffc0cb"
+      "id": 17,
+      "type": "Fairy",
+      "foreground": "#ff69b4",
+      "background": "#ffc0cb"
     }
   ]
 }
