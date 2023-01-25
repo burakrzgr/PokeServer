@@ -8,7 +8,7 @@
         "Grass",
         "Poison"
       ],
-      "Desc": "Ivysaur, mavi-yeşil lekeli, kurbağa ve dinozor benzeri bir Pokémo'dur. Gözleri parlak kırmızıdır, ancak bu Pokémo'un en önemli özelliği sırtında taşıdığı çiçek tomurcuğudur. Bulbasaur Ivysaur'ın evrimleşmemiş halidir. Bulbasaurken dişleri küçüktü, kulakiçi belli değildi ve gözbebekleri daha küçüktü. Ivysaur'ın rengi Bulbasaur'dan daha mavidir. Ivysaur'ın görüntüsüdeki en büyük fark çiçek soğanı artık bir çiçek tomurcuğu olmuştu. Bu tomurcuk ağır olduğundan arka bacakları kuvvetlenir ancak büyümek pahasına ayağa kalkma yeteneğini yitirir.",
+      "Desc": "Ivysaur, Bulbasaur'un evrimleşmiş hali olmaktadır. Sırtındaki ampul daha büyük ve küçük bir bitkiye dönüşmeye başlamıştır. Ivysaur, Çim ve Zehir tipi bir Pokémon'dur. Overgrow adlı yeteneği sayesinde HP düştükçe saldırı gücü artar ve gizli bir yeteneği olan Chlorophyll sayesinde güneşli hava koşullarında hızı artar. Ivysaur, Bulbasaur'dan daha fazla hareket seçeneğine sahiptir, Vine Whip, Razor Leaf, Solar Beam, Petal Dance gibi. Bu nedenle hem saldırı hem de savunma stratejilerinde kullanışlıdır. Eğitmenler arasında popüler bir seçimdir ve sıklıkla başlangıç Pokémon olarak kullanılır.",
       "BColor": "#35687a",
       "FColor": "#afceae",
       "Prev": [
@@ -54,7 +54,7 @@
       "Type": [
         "Electric"
       ],
-      "Desc": "Pikachu, Pika türünden çıkmış bir Pokémo'dur. Kolaylıkla fark edilen özellikleri; sarı tüylerinin ve sırtında kahverengi çizgilerinin olmasıdır. Yanaklarındaki kırmızı noktalardan elektrik salınımı yapar. Vücudundaki elektriğin yayımı sayesinde çeşitli saldırılarla genellikle karşısındaki rakibi geçici olarak felç eder. Pikachu'nun yanaklarındaki elektrik panelleri herhangi bir akıma karşı çok hassastır. Gerilimin fazla olduğu manyetik alanlarda Pikachu hastalanabilir. Genellikle güç alanlarının yakınlarında bulunur. Yaşamak için bedeninde dolanan bir akıma ihtiyaç duyan Pikachu, diğer elektrik Pokémonlarıyla iletişim kurmak için kıvılcımlarından faydalanabilir.",
+      "Desc": "Pikachu, elektrik tipi bir Pokémon'dur. Küçük, sevimli bir yapıya sahip ve kulaklarının üstünde yer alan bir ampul ile tanınır. Pikachu, keskin zekası, hızlı hareketleri ve güçlü elektrik saldırıları ile ünlüdür.\n\nPikachu'nun yetenekleri arasında Static ve Lightning Rod bulunur. İlki, Pikachu'nun rakip Pokémon'a dokunması durumunda elektrik saldırısı yapmasına neden olurken, ikincisi Pikachu'yu elektrik saldırılarından koruya bilir. Bu yetenekleri sayesinde Pikachu, saldırı ve savunma stratejilerinde etkili bir rol oynar.\n\nPikachu, çok sevilen bir Pokémondur ve sıklıkla eğitmenler tarafından kullanılır. Pikachu, anime ve oyunların popüler karakterlerinden biridir. Çok sayıda tatbikatlar, kostümler, oyuncaklar ve hatta filmler bile Pikachu ile ilgili olarak yapılmıştır. Bu nedenle Pikachu, özellikle çocuklar için oldukça popüler bir Pokémon'dur.",
       "BColor": "#f7dc6f",
       "FColor": "#000000",
       "Prev": [
@@ -67,8 +67,8 @@
         "Static"
       ],
       "Rating": {
-        "Score": 201,
-        "Total": 293
+        "Score": 1,
+        "Total": 1
       }
     },
     {
@@ -658,7 +658,7 @@
         "Grass",
         "Poison"
       ],
-      "Desc": "There is a plant seed on its back right from the day this Pokémon is born. The seed slowly grows larger.",
+      "Desc": "Bulbasaur, dört ayaklı, dinazor benzeri bir Pokémon'dur. Küçük, uçlu kulakları ve sırtında bir ampulü vardır, adını buradan alır.\n\nSırtındaki ampul gerçekte Bulbasaur büyüdükçe büyük bir çiçek olan bir tohumdur. Bulbasaur, Çim ve Zehir tipi bir Pokémon'dur, bu nedenle Yer, Kaya, Su ve Peri tipi Pokémon'a karşı güçlüdür ancak Uçak, Ruhsal ve Ateş tipi Pokémon'a karşı zayıftır.\n\nBulbasaur'un yetenekleri, Overgrow ve Chlorophyll, güneşli hava koşullarında gücünü ve hızını arttırır. Bulbasaur çok çeşitli bir Pokémon'dur, Vine Whip, Razor Leaf ve Solar Beam gibi geniş bir hareket yelpazesine sahiptir, bu nedenle hem saldırı hem de savunma stratejilerinde kullanışlıdır. Eğitmenler arasında popüler bir seçimdir ve sıklıkla başlangıç ​​Pokemon olarak kullanılır.",
       "BColor": "#35687a",
       "FColor": "#afceae",
       "Prev": [],
@@ -681,7 +681,7 @@
         "Grass",
         "Poison"
       ],
-      "Desc": "Its plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight.",
+      "Desc": "Venusaur, Ivysaur'un evrimleşmiş hali olarak kabul edilir. Sırtındaki ampul büyük ve güzel bir çiçek haline gelmiştir. Venusaur, Çim ve Zehir tipi bir Pokémon'dur. Overgrow adlı yeteneği sayesinde HP düştükçe saldırı gücü artar ve gizli bir yeteneği olan Chlorophyll sayesinde güneşli hava koşullarında hızı artar. Venusaur, Ivysaur'dan daha fazla hareket seçeneğine sahiptir, Vine Whip, Razor Leaf, Solar Beam, Petal Dance, Sleep Powder, Poison Powder gibi. Bu nedenle hem saldırı hem de savunma stratejilerinde kullanışlıdır. Eğitmenler arasında popüler bir seçimdir ve sıklıkla başlangıç Pokémon olarak kullanılır.",
       "BColor": "#35687a",
       "FColor": "#afceae",
       "Prev": [
