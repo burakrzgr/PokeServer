@@ -1339,5 +1339,77 @@
         "foreground": "#87cefa",
         "background": "#00bfff"
     },
+    {
+        "id": 6,
+        "type": "Fighting",
+        "foreground": "#8b0000",
+        "background": "#8b0000"
+    },
+    {
+        "id": 7,
+        "type": "Poison",
+        "foreground": "#a020f0",
+        "background": "#9370db"
+    },
+    {
+        "id": 8,
+        "type": "Ground",
+        "foreground": "#8b4513",
+        "background": "#d2b48c"
+    },
+    {
+        "id": 9,
+        "type": "Flying",
+        "foreground": "#87ceeb",
+        "background": "#00bfff"
+    },
+    {
+        "id": 10,
+        "type": "Psychic",
+        "foreground": "#ff69b4",
+        "background": "#ff1493"
+    },
+    {
+        "id": 11,
+        "type": "Bug",
+        "foreground": "#6e9cbe",
+        "background": "#ffa600"
+    },
+    {
+        "id": 12,
+        "type": "Rock",
+        "foreground": "#8b4513",
+        "background": "#8b7d6b"
+    },
+    {
+        "id": 13,
+        "type": "Ghost",
+        "foreground": "#696969",
+        "background": "#6e7b8b"
+    },
+    {
+        "id": 14,
+        "type": "Dragon",
+        "foreground": "#6a5acd",
+        "background": "#7b68ee"
+    },
+    {
+        "id": 15,
+        "type": "Dark",
+        "foreground": "#8b0000",
+        "background": "#8b0000"
+    },
+    {
+        "id": 16,
+        "type": "Steel",
+        "foreground": "#b0c4de",
+        "background": "#708090"
+    },
+    {
+        "id": 17,
+        "type": "Fairy",
+        "foreground": "#ff69b4",
+        "background": "#ffc0cb"
+    }
   ]
 }
